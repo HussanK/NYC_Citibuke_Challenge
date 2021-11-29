@@ -22,3 +22,5 @@ Given the data we can exptrapolate that the majority of users are using as a mea
 new style of bike better sutied to a 9-5 employee. Two other visualization I would have are start and end locations based on time. This can be done with our current data, and 
 would further show this point, but could potentially disprove it. I would also recommend maybe seeing if the data for average income of users would be available as that could 
 also assist in create new and useful visualizations. 
+
+[link to dashboard](https://public.tableau.com/app/profile/hussan.kureishy/viz/NYC-Citibike-Challenge_16381461210140/BikeUltization)
